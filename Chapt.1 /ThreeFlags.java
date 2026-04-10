@@ -1,4 +1,4 @@
-public class Mississippi {
+public class ThreeFlags {
 	public static void main(String[] args) {
 	firstFlag();
 	threeLineSpace();
